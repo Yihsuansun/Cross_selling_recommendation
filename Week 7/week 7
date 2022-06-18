@@ -1,0 +1,22 @@
+Cross selling recommendation - Group Project
+
+How to increase cross selling of Banking Products
+Problem Statement:  XYZ credit union in Latin America is performing very well in selling the Banking products (eg: Credit card, deposit account, retirement account, 
+safe deposit box etc) but their existing customer is not not buying more than 1 product which means bank is not performing good in cross selling (Bank is not 
+able to sell their other offerings to existing customer). XYZ Credit Union decided to approach ABC analytics to solve their problem. Can you tell us how this 
+can be solved?   ( In real world you will be thrown problems like this  ;) )
+
+Pic Credit: Google
+
+ML Problem statement:
+ABC company came up with a framework which will be utilizing machine learning algorithm in the core to increase cross selling.
+But As a data analyst you need to inspect the data and suggest what action bank can take to increase cross selling (without using ML)
+
+Task:
+1. Business understanding
+2. Data Understanding
+3. Data Cleansing and Transformation
+4. Exploratory data analysis
+5. EDA Recommendation (ppt)
+6. Dashboard which should capture type of customer their count, segment wise (VIP,student etc) customer average age and other KPIs which gives better business insight in taking decision.
+7. Prepare a final presentation
